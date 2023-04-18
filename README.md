@@ -1,3 +1,3 @@
 # website.gp
 
-<a href="https://luizrio.github.io/website.gp/" target="_blank">Access here</a>
+<a href="https://luizrio.github.io/website.gp/">Access here</a>
